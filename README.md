@@ -11,3 +11,6 @@ It's possible to do this using LTC Out > LTC In but that doesn't seem to support
 ## TracelineMaker
 A tool for creating trace lines from SOPs and animating them. Open the viewer and click on points to start creating a trace. Click Clear Trace to clear. 
 For multiple tracelines you can hit the export pulse parameters to export either an animated traceline or a static full length one ready for use with a Carve SOP.
+
+## ArcBallPreviz
+A quick helper for setting up a previz environment. Includes dennis from renderpeople and an environment map in the tox.
