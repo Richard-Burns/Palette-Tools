@@ -14,3 +14,6 @@ For multiple tracelines you can hit the export pulse parameters to export either
 
 ## ArcBallPreviz
 A quick helper for setting up a previz environment. Includes dennis from renderpeople and an environment map in the tox.
+
+## DroneCamera
+A simple camera tool that allows you to use a joystick to control the camera like a drone. L and R triggers move up and down with the analog sticks moving and rotating.
