@@ -20,3 +20,6 @@ A simple camera tool that allows you to use a joystick to control the camera lik
 
 ## PointCloudToPLY
 Takes an XYZ TOP and an RGB TOP and allows you to save it out as a PLY file for use with other software.
+
+## TextGarbler
+A text garbler for animation of garbled text. You can also type on text and have a flashing cursor at the end. This COMP is good for when you need hacker style typing on text or matrix style garbling and other effects like that.
