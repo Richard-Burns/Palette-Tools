@@ -1,7 +1,7 @@
 # Palette-Tools
 A collection of TouchDesigner tools that can be used in the palette
 
-# CameraFrustrum
+## CameraFrustrum
 The standard camera with the option to display a frustrum inside.
 
 ## DroneCamera
