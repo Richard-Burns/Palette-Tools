@@ -1,9 +1,6 @@
 # Palette-Tools
 A collection of TouchDesigner tools that can be used in the palette
 
-## ArcBallPreviz
-A quick helper for setting up a previz environment. Includes dennis from renderpeople and an environment map in the tox.
-
 # CameraFrustrum
 The standard camera with the option to display a frustrum inside.
 
