@@ -43,3 +43,6 @@ A text garbler for animation of garbled text. You can also type on text and have
 ## TracelineMaker
 A tool for creating trace lines from SOPs and animating them. Open the viewer and click on points to start creating a trace. Click Clear Trace to clear. 
 For multiple tracelines you can hit the export pulse parameters to export either an animated traceline or a static full length one ready for use with a Carve SOP.
+
+## UIKit
+The UI kit used for the 2023 version of SimpleMixer. It's less feature-rich but more lightweight than widgets so is useful when performance is key. It's also easier to modify
